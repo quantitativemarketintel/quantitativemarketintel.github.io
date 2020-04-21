@@ -18,5 +18,5 @@ This website provides resources and information on:
 
 | Assignment                    | Due Date | Files                                                                                                                                                                                                                      |
 |-------------------------------|----------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Neural Nets - Due May 4, 2020 | May 4, 2020  | [[Zip File]](https://drive.google.com/file/ d/1OQEWKcyfugCfH1B4MoZVmNrV4uAUgKn8/view?usp=sharing) <br>  [[Reading 1]](https://cs231n.github.io/neural-networks-1/)  <br> [[Reading 2]](https://cs231n.github.io/neural-networks-2/) |
+| Neural Nets - Due May 4, 2020 | May 4, 2020  | [[Zip File]](https://drive.google.com/open?id=1OQEWKcyfugCfH1B4MoZVmNrV4uAUgKn8) <br>  [[Reading 1]](https://cs231n.github.io/neural-networks-1/)  <br> [[Reading 2]](https://cs231n.github.io/neural-networks-2/) |
 
