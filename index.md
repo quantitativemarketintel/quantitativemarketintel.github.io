@@ -1,8 +1,11 @@
 ---
 layout: homepage
+title: Home
 ---
 
-### About
+# Welcome
+
+## About
 This website provides resources and information on:
 
 - [The QMI 2019-2020 curriculum](schedule.md)
