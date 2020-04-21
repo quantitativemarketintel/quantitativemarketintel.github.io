@@ -36,4 +36,8 @@
     ga('send', 'pageview');
   </script>
   {% endif %}
+
+{{ page.calendar_css | replace: "!PATH_TO_COMPONENTS!", "/components" | prepend: site.baseurl }}
+{{ page.calendar_bootstrap_css | replace: "!PATH_TO_COMPONENTS!", "/components" | prepend: site.baseurl }}
+
 </head>
