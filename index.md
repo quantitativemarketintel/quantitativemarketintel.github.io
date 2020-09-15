@@ -20,5 +20,6 @@ This website provides resources and information on:
 | Environment Setup             | 9/22     |  	   |
 
 ## Lecture Notes
-| Date | Lecture Title | Materials |
-| 9/15 | Welcome Back  |           |
+
+| Date                | Lecture Title | Files |
+| 9/15   			  | Welcome Back  |       |
