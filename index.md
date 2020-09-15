@@ -18,3 +18,7 @@ This website provides resources and information on:
 
 | Assignment                    | Due Date | Files |
 | Environment Setup             | 9/22     |  	   |
+
+## Lecture Notes
+| Date | Lecture Title | Materials |
+| 9/15 | Welcome Back  |           |
