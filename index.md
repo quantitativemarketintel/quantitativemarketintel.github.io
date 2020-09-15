@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Welcome (to the better specialization ;))
+title: Welcome (to the better specialization 😉)
 ---
 
 ---
