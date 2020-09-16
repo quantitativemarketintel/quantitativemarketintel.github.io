@@ -24,4 +24,4 @@ This website provides resources and information on:
 ## Lecture Notes
 
 | Date                | Lecture Title | Files |
-| 9/15   			  | Welcome Back  |       |
+| 9/15   			  | Welcome Back  | [Notes]({{ site.url }}/assets/CSSpecialization_WelcomeBack.pdf)     |
