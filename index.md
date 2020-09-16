@@ -17,7 +17,7 @@ This website provides resources and information on:
 ## Homework
 
 | Assignment                    | Due Date | Files |
-| Environment Setup             | 9/22     |  	   |
+| Environment Setup             | 9/22     | [Environment Setup Guide]({{ site.url }}/assets/UpdatedEnvironmentSetup.pdf) 	   |
 
 ---
 
