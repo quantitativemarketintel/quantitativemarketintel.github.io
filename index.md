@@ -18,7 +18,7 @@ This website provides resources and information on:
 
 | Assignment                    | Due Date | Files |
 | Environment Setup             | 9/22     | [Environment Setup Guide]({{ site.url }}/assets/UpdatedEnvironmentSetup.pdf) 	   |
-|Probability, NN, NLP | 9/29 | [Homework1]() <br> [nyt.txt]({{ site.url }}/assets/nyt.txt) |
+|Probability, NN, NLP | 9/29 | [Homework1]({{ site.url }}/assets/CSSpecializationHW1.pdf) <br> [nyt.txt]({{ site.url }}/assets/nyt.txt) |
 
 ---
 
