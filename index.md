@@ -18,6 +18,7 @@ This website provides resources and information on:
 
 | Assignment                    | Due Date | Files |
 | Environment Setup             | 9/22     | [Environment Setup Guide]({{ site.url }}/assets/UpdatedEnvironmentSetup.pdf) 	   |
+|Probability, NN, NLP | 9/29 | [Homework1]() <br> [nyt.txt]({{ site.url }}/assets/nyt.txt) |
 
 ---
 
@@ -25,3 +26,4 @@ This website provides resources and information on:
 
 | Date                | Lecture Title | Files |
 | 9/15   			  | Welcome Back  | [Notes]({{ site.url }}/assets/CSSpecialization_WelcomeBack.pdf)     |
+| 9/22   			  | Review From Last Year  | [Notes]({{ site.url }}/assets/CS_Specialization_Lec2.pdf)     |
