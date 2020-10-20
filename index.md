@@ -19,7 +19,7 @@ This website provides resources and information on:
 | Assignment                    | Due Date | Files |
 | Environment Setup             | 9/22     | [Environment Setup Guide]({{ site.url }}/assets/UpdatedEnvironmentSetup.pdf) 	   |
 |Probability, NN, NLP | 9/29 | [Homework1]({{ site.url }}/assets/CSSpecializationHW1.pdf) <br> [nyt.txt]({{ site.url }}/assets/nyt.txt) |
-|DAN Dropout | 10/20 | [Instructions]({{ site.url }}/assets/DAN_HW.pdf) <br> [Homework2 Zip]({{ site.url }}/assets/DAN.zip) |
+|DAN Dropout | 10/26 | [Instructions]({{ site.url }}/assets/DAN_HW.pdf) <br> [Homework2 Zip]({{ site.url }}/assets/DAN.zip) |
 
 ---
 
