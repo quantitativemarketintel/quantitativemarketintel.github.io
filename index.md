@@ -26,8 +26,9 @@ This website provides resources and information on:
 ## Lecture Notes
 
 | Date                | Lecture Title | Files |
-| 9/15   			  | Welcome Back  | [Notes]({{ site.url }}/assets/CSSpecialization_WelcomeBack.pdf)     |
-| 9/22   			  | Review From Last Year  | [Notes]({{ site.url }}/assets/CS_Specialization_Lec2.pdf)     |
+| 9/15   			  | Welcome Back  | [Notes]({{ site.url }}/assets/CSSpecialization_WelcomeBack.pdf)  <br> [Recording](https://drive.google.com/file/d/1hVl4kmG0A3NyNhAaaTP_PFXUoVq6-BSZ/view?usp=sharing)  |
+| 9/22   			  | Review From Last Year  | [Notes]({{ site.url }}/assets/CS_Specialization_Lec2.pdf)  <br> [Recording](https://drive.google.com/file/d/1pvzpa4b_6DGATzMkGWyxDyR8TOBspIPN/view?usp=sharing)  |
 | 9/29  			  | Linear Algebra         | [Notes]({{ site.url }}/assets/Notes9-29.pdf)     |
+| 10/6				  | HW Discussion          | [Recording](https://drive.google.com/file/d/1D19ivOs0wWQArVK5FehxegBKksUyIwzd/view?usp=sharing) |
 | 10/13 			  | Word Embeddings        | [Notes]({{ site.url }}/assets/Notes10-13.pdf)  <br> [Recording](https://drive.google.com/file/d/1cu5xFCdswjnxf_WU_4isB1fJ4UOERUaN/view?usp=sharing)   |
 | 10/20				  | DANs				   | [Paper]({{ site.url }}/assets/dan_paper.pdf) <br> [Recording](https://drive.google.com/file/d/1Tymgc_7gzXdt_lc14iVvqpRnoU6GYzXY/view?usp=sharing)   |
