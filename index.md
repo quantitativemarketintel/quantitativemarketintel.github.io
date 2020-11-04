@@ -21,6 +21,7 @@ This website provides resources and information on:
 |Probability, NN, NLP | 9/29 | [Homework1]({{ site.url }}/assets/CSSpecializationHW1.pdf) <br> [nyt.txt]({{ site.url }}/assets/nyt.txt) |
 |DAN Dropout | 10/26 | [Instructions]({{ site.url }}/assets/DAN_HW.pdf) <br> [Homework2 Zip]({{ site.url }}/assets/DAN.zip) |
 |LSTM | 11/10 | [Instructions]({{ site.url }}/assets/CSSpecialization_LSTM_HW.pdf) <br> [Homework3 Data]({{ site.url }}/assets/housing_prices.csv) |
+
 ---
 
 ## Lecture Notes
