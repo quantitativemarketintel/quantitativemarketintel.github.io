@@ -32,3 +32,4 @@ This website provides resources and information on:
 | 10/6				  | HW Discussion          | [Recording](https://drive.google.com/file/d/1D19ivOs0wWQArVK5FehxegBKksUyIwzd/view?usp=sharing) |
 | 10/13 			  | Word Embeddings        | [Notes]({{ site.url }}/assets/Notes10-13.pdf)  <br> [Recording](https://drive.google.com/file/d/1cu5xFCdswjnxf_WU_4isB1fJ4UOERUaN/view?usp=sharing)   |
 | 10/20				  | DANs				   | [Paper]({{ site.url }}/assets/dan_paper.pdf) <br> [Recording](https://drive.google.com/file/d/1Tymgc_7gzXdt_lc14iVvqpRnoU6GYzXY/view?usp=sharing)   |
+| 11/3				  | RNNs and LSTM  | [Notes/Code]({{ site.url }}/assets/RNN_LSTM.html) |
